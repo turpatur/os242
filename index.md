@@ -1,0 +1,3 @@
+- [Log] (TXT/mylog.txt)
+- [Github] (https://github.com/turpatur/os242)
+- [Links] (links.md)
