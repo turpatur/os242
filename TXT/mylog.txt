@@ -11,7 +11,7 @@ ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 60 L09 Weekly assignment
 ZCZC W00 10 L41 Update log 
 ZCZC W00 10 L10 Wrap up assignment #00
-ZCZC W01 20 L00 General, etc
+ZCZC W01 20 L00 General, etc.
 ZCZC W01 200 L02 Classroom related
 ZCZC W01 10 L05 Weekly Quiz
 ZCZC W01 60 L09 Continuing reading assignment  
@@ -20,7 +20,14 @@ ZCZC W01 60 L06 GSGS for GHP
 ZCZC W01 10 L04 Github Pages Related 
 ZCZC W01 10 L41 Update Log 
 ZCZC W01 10 L11 Wrap up Assignment #01
-
-
+ZCZC W02 200 L02 Classroom related 
+ZCZC W02 10 L05 Weekly Quiz 
+ZCZC W02 20 L00 General, etc.
+ZCZC W02 60 L06 GSGS about security 
+ZCZC W02 10 L04 Github Pages related
+ZCZC W02 60 L09 Reading assignment about security
+ZCZC W02 10 L07 Trying demo 
+ZCZC W02 10 L41 Update log 
+ZCZC W02 10 L12 Wrap up assignment #02
 
 

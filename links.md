@@ -11,3 +11,9 @@ Another learning source for OS, useful to get additional information.
 
 3. [Linux Commands Tutorial](https://www.youtube.com/watch?v=gd7BXuUQ91w)<br>
 Insight for understanding Linux commands.
+
+4. [Encryption and Public Keys](https://www.youtube.com/watch?v=6-JjHa-qLPk)
+Insight for understanding encryption, relevant to week 02 material. 
+
+5. [Basic File Encryption with GPG key pairs](https://www.youtube.com/watch?v=DMGIlj7u7Eo&t=85s)
+Practial example of GPG key pairs. 
