@@ -29,5 +29,12 @@ ZCZC W02 60 L09 Reading assignment about security
 ZCZC W02 10 L07 Trying demo 
 ZCZC W02 10 L41 Update log 
 ZCZC W02 10 L12 Wrap up assignment #02
-
+ZCZC W03 100 L02 Classroom related 
+ZCZC W03 20 L00 General,etc.
+ZCZC W03 60 L09 Reading assignment about file system
+ZCZC W03 60 L06 GSGS about file system 
+ZCZC W03 10 L07 Trying demo 
+ZCZC W03 10 L04 Github pages related
+ZCZC W03 10 L41 Update log 
+ZCZC W03 10 L13 Wrap up assignment #03
 
