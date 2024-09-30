@@ -23,3 +23,6 @@ Explains the basics of makefiles.
 
 7. [Compiling a C Program: Behind the Scenes](https://www.geeksforgeeks.org/compiling-a-c-program-behind-the-scenes/)<br>
 Explains how a C program is compiled. 
+
+8. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
+An article that gives detailed explanation about memory management. Covers week 04 material
