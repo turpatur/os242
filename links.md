@@ -26,3 +26,6 @@ Explains how a C program is compiled.
 
 8. [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)
 An article that gives detailed explanation about memory management. Covers week 04 material
+
+9.[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+An article that covers the fork() system call in linux.

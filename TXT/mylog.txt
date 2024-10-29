@@ -55,3 +55,11 @@ ZCZC W05 10 L05 Weekly Quiz
 ZCZC W05 10 L04 Github pages related
 ZCZC W05 10 L41 Update log 
 ZCZC W05 10 L15 Wrap up assignment #05
+ZCZC W06 200 L02 Classroom related 
+ZCZC W06 20 L00 General,etc.
+ZCZC W06 60 L09 Reading assignment about process, threads, and concurrency
+ZCZC W06 60 L06 GSGS about fork, mmap, and malloc
+ZCZC W06 10 L07 Trying demo
+ZCZC W06 120 L04 Github pages related (setting up docusaurus)
+ZCZC W06 10 L41 Update log 
+ZCZC W06 10 L16 Wrap up assignment #06
