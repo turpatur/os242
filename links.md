@@ -29,3 +29,7 @@ An article that gives detailed explanation about memory management. Covers week 
 
 9.[fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 An article that covers the fork() system call in linux.
+
+10.[Deadlock - Operating Systems | Simply Explained](https://www.youtube.com/watch?v=y7DOHyBTWps)
+A brief explanation about Deadlock.
+

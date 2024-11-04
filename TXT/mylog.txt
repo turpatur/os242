@@ -63,3 +63,11 @@ ZCZC W06 10 L07 Trying demo
 ZCZC W06 120 L04 Github pages related (setting up docusaurus)
 ZCZC W06 10 L41 Update log 
 ZCZC W06 10 L16 Wrap up assignment #06
+ZCZC W07 200 L02 Classroom related 
+ZCZC W07 20 L00 General,etc.
+ZCZC W07 60 L09 Reading assignment about synchronization and deadlock
+ZCZC W07 60 L06 GSGS about synchronization and deadlock
+ZCZC W07 10 L07 Trying demo
+ZCZC W07 60 L04 Github pages related (making docusaurus blog)
+ZCZC W07 10 L41 Update log 
+ZCZC W07 10 L17 Wrap up assignment #07
