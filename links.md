@@ -33,3 +33,5 @@ An article that covers the fork() system call in linux.
 10.[Deadlock - Operating Systems | Simply Explained](https://www.youtube.com/watch?v=y7DOHyBTWps)
 A brief explanation about Deadlock.
 
+11.[CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY)
+Explanation for CPU Scheduling.

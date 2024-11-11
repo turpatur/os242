@@ -71,3 +71,12 @@ ZCZC W07 10 L07 Trying demo
 ZCZC W07 60 L04 Github pages related (making docusaurus blog)
 ZCZC W07 10 L41 Update log 
 ZCZC W07 10 L17 Wrap up assignment #07
+ZCZC W08 200 L02 Classroom related 
+ZCZC W08 20 L00 General,etc.
+ZCZC W08 60 L09 Reading assignment about CPU Scheduling
+ZCZC W08 60 L06 GSGS about CPU Scheduling
+ZCZC W08 10 L05 Weekly Quiz
+ZCZC W08 10 L07 Trying demo
+ZCZC W08 10 L04 Github pages related
+ZCZC W08 10 L41 Update log 
+ZCZC W08 10 L18 Wrap up assignment #08
